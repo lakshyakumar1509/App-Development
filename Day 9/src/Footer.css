@@ -1,0 +1,68 @@
+/* Style the main footer container */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  /* Center align the footer content */
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Style the footer logo */
+  .footer-logo img {
+    width: 100px; /* Adjust the width as needed */
+  }
+  
+  /* Style the footer links */
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-links a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Style the "Follow Us" section */
+  .footer-social h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-social ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-social li {
+    margin-bottom: 5px;
+  }
+  
+  .footer-social a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Style the footer bottom section */
+  .footer-bottom {
+    text-align: center;
+    padding-top: 10px;
+  }
+  
+  .footer-bottom p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
